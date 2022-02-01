@@ -1,0 +1,150 @@
+.maincontroller{
+    background-image: linear-gradient(rgb(137, 58, 240),rgb(196, 84, 84));
+
+    
+}
+.head{
+    margin-left: 40px;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bold;
+}
+.body{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.secondbody{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.contect{
+    margin-left: 28px;
+    color: white;
+    font-family: cursive;
+    margin-top: 20px;
+}.mail{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: cursive;
+}
+.read{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-family: cursive;
+}
+.button{
+    display: flex;
+    justify-content: space-between;
+}
+.control{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(255, 136, 115);
+}
+.menu{
+    font-size: 22px;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+
+}
+.menucontainer{
+    margin-top: 50px;
+   
+}
+.menu:hover{
+    border-bottom: solid;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px; 
+    margin-top: 100px;
+    padding-bottom: 100px; 
+
+}
+.bottom:hover{
+    font-size: 23px;
+    color: white;
+}
+.lower{
+    display: flex;
+    justify-content: right;
+}
+.signin{
+    padding: 15px 30px 15px;
+    margin-top: 100px;
+    margin-right: 50px;
+   border: none;
+   border-radius: 26px;
+    background-color: rgb(230, 76, 76);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.signin:hover{
+ border: solid;
+ border-width: 2px;
+ border-color: white;
+
+}
+.nextpage{
+    background-image:linear-gradient(rgb(127, 76, 209rgb(223, 224, 233)8))
+}
+.book{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+
+}
+.item{
+    list-style-type: none;
+    display: inline;
+    font-size: 24px;
+    text-decoration: none;
+    background-color: rgb(100, 89, 89);
+    color: white;
+    padding: 8px;
+   
+}
+.item:hover{
+    background-color: rgb(221, 81, 81);
+}
+.item{
+    float: left;
+}
+.formore{
+    padding: 8px;
+    font-size: 24px;
+    text-decoration: none;
+    list-style-type: none;
+    color: white;
+    display: block;
+}
+.formore:hover{
+    background-color: rgb(0, 0, 0);
+}
+.navbar{
+    overflow: hidden;
+    background-color: rgb(95, 90, 90);
+    padding: 8px;
+
+
+}
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-top: 39px;
+    margin-right: 500px;
+}
+.about{
+    font-family: monospace;
+   display: flex;
+   justify-content: center;
+}
+
